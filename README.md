@@ -1,6 +1,9 @@
 
 # Project template
 
+Some small additions to Jonathan Dingel's project template. 
+Below are his words:
+
 This repository contains a project template.
 I intend this repo as the common starting point for research projects.
 It can also be used to onboard new co-authors and research assistants.
